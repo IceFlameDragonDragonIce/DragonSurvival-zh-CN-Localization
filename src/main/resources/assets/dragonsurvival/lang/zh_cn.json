@@ -647,6 +647,8 @@
   "dragonsurvival.configuration.disable_dragon_suffocation.tooltip": "启用时，龙不会因窒息而受到伤害",
   "dragonsurvival.configuration.disable_size_camera_modifications": "禁用体型视角调整",
   "dragonsurvival.configuration.disable_size_camera_modifications.tooltip": "禁用时，龙之生存中的所有基于体型的视角调整将不再生效",
+  "dragonsurvival.configuration.disable_dragon_food_handling": "禁用龙类食物处理",
+  "dragonsurvival.configuration.disable_dragon_food_handling.tooltip": "禁用龙之生存对食物系统所做的所有修改。某些模组会自动启用此设置（例如 群峦传说）",
   "dragonsurvival.configuration.dragon_camera_minimum_scale": "视角最小缩放比例",
   "dragonsurvival.configuration.dragon_camera_minimum_scale.tooltip": "决定第三人称视角下相机停止拉近的缩放比例",
   "dragonsurvival.configuration.dragon_camera_scale_factor": "视角缩放系数",
